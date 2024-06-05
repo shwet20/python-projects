@@ -1,12 +1,17 @@
 # Python Projects
-• SetUp: Python, Flask, Tkinter, Pandas
+# Python | Flask | Pandas | Tkinter
 
 # Remove Duplicates From Excel
-• Remove duplicates data row from excel which have same id    
-• To run project: checkout project directory and run command => python app.py
+• Remove duplicates data row from the excel which have same id
+
+# Face Recognition 
+• On running the script, camera window will be open    
+• Recognizes face as highlighting with blue square box    
+• OpenCV
 
 # Color game
-• This is 30 sec game in which you have to enter color of the given word, not the text itself. The highest score will be recorded in the .txt file    
-• To run project: checkout project directory and run command => python app.py
+• 30 sec Color game    
+• You have to enter color of given word, not the text itself    
+• Highest score will be recorded in the .txt file
 
 # Automated Mailing
