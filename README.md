@@ -1,5 +1,5 @@
 # Python Projects
-• SetUp: Python, Flask, Tkinter, Pandas
+# Python | Flask | Pandas | Tkinter
 
 # Remove Duplicates From Excel
 • Remove duplicates data row from the excel which have same id
